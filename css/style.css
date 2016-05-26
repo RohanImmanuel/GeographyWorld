@@ -1,0 +1,108 @@
+html, body{
+/*	min-width: 1280px;*/
+	width: 100%;
+	height: 100%;
+}
+
+main{
+	width: 100%;
+	height: 100%;
+	display: -webkit-flex;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: stretch;
+}
+
+#map{
+	width: auto;
+	height: auto;
+	flex-grow: 2;
+	background-color: #78CDD6;
+}
+
+#sidebar{
+	max-width: 480px;
+	width: 30%;
+	height: 100%;
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+}
+#video{
+	width: 100%;
+	height: 0;
+	position: relative;
+	padding-bottom: 56.25%;
+	overflow: hidden;
+	background-color: #000;
+}
+#video:before{
+	content: 'Loading';
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: #fff;
+	font-size: 2em;
+	text-align: center;
+	transform: translate(-50%, -50%);
+	animation-duration: 2s;
+	animation-name: bling;
+	animation-iteration-count: infinite;
+}
+#video.no:before{content: 'Video Comming Soon!';}
+@keyframes bling {
+	0%{color: #000;}
+	50%{color: #fff;}
+	100%{color: #000;}
+}
+
+#video iframe, 
+#video object, 
+#video embed{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+#video-list{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background-color: #000;
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+#video-list .search{
+	display: block;
+	box-sizing: border-box;
+	width: 100%;
+	margin: 0;
+	padding: 1em;
+	border: 0;
+	outline: 0;
+	background-color: #111;
+	color: #fafafa;
+	flex-shrink: 0;
+}
+#video-list .list{
+	width: 100%;
+	height: auto;
+	box-sizing: border-box;
+	flex-shrink: 1;
+	overflow-y: auto;
+	margin: 0;
+	padding: 0;
+	color: #fafafa;
+	list-style: none;
+}
+#video-list .list li{
+	padding: 1em;
+	border-top: 1px solid #111;
+	border-bottom: 1px solid #000;
+	cursor: pointer;
+}
