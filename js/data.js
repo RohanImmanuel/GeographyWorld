@@ -217,6 +217,6 @@ var data = {
   	CZ: {
   		name: "Czech Republic (Czechia)",
   		continent: "Europe",
-		youtube: "https://www.youtube.com/embed/kaF6SnSEo8"
+		youtube: "https://www.youtube.com/embed/-kaF6SnSEo8"
   	}
 }
