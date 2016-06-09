@@ -179,6 +179,11 @@ var data = {
 		continent: "South America",
 		youtube: "https://www.youtube.com/embed/8P4Hi99hUJc"
   	},
+  	CX: {
+		name: "Christmas Island",
+		continent: "Oceania",
+		youtube: "https://www.youtube.com/embed/rIU_BQEuKQ8"
+  	},
   	CO: {
 		name: "Colombia",
 		continent: "South America",
