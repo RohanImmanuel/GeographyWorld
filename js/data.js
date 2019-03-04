@@ -618,7 +618,7 @@ var data = {
 				name: "Nepal",
 				continent: "Asia",
 				youtube: "https://www.youtube.com/embed/8gTkgfOMkTU"
-		}
+		},
 		NL: {
 				name: "Netherlands",
 				continent: "Europe",
