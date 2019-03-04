@@ -290,7 +290,7 @@ var data = {
 				youtube: "https://www.youtube.com/embed/eAB6o1rLH1w"
 		},
 		FJ: {
-				name: "FIJI",
+				name: "Fiji",
 				continent: "Oceania",
 				youtube: "https://www.youtube.com/embed/AFf22L5ZZN4"
 		},
@@ -395,7 +395,7 @@ var data = {
 				youtube: "https://www.youtube.com/embed/2xQM4Zy5zIk"
 		},
 		IQ: {
-				name: "IRAQ",
+				name: "Iraq",
 				continent: "Asia",
 				youtube: "https://www.youtube.com/embed/YHQqsx9wsnc"
 		},
@@ -450,12 +450,12 @@ var data = {
 				youtube: "https://www.youtube.com/embed/00QUYoZHnH8"
 		},
 		KR: {
-				name: "SOUTH KOREA (ROK)",
+				name: "South Korea (ROK)",
 				continent: "Asia",
 				youtube: "https://www.youtube.com/embed/zTK119W8MBA"
 		},
 		KW: {
-				name: "KUWAIT",
+				name: "Kuwait",
 				continent: "Asia",
 				youtube: "https://www.youtube.com/embed/S_pUIeE4Eko"
 		},
@@ -465,7 +465,7 @@ var data = {
 				youtube: "https://www.youtube.com/embed/Wo-b_MpguLo"
 		},
 		LA: {
-				name: "LAOS",
+				name: "Laos",
 				continent: "Asia",
 				youtube: "https://www.youtube.com/embed/dbmZQDySpzY"
 		},
@@ -475,27 +475,27 @@ var data = {
 				youtube: "https://www.youtube.com/embed/3_kocBCsIbk"
 		},
 		LB: {
-				name: "LEBANON",
+				name: "Lebanon",
 				continent: "Asia",
 				youtube: "https://www.youtube.com/embed/vvgLLqpRT6s"
 		},
 		LS: {
-				name: "LESOTHO",
+				name: "Lesotho",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/dgPLD_XzggY"
 		},
 		LR: {
-				name: "LIBERIA",
+				name: "Liberia",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/HEbSlGIOX70"
 		},
 		LY: {
-				name: "LIBYA",
+				name: "Libya",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/TBEfVYBohzc"
 		},
 		LI: {
-				name: "LIECHTENSTEIN",
+				name: "Liechtenstein",
 				continent: "Europe",
 				youtube: "https://www.youtube.com/embed/rTiLTnWM7vQ"
 		},
@@ -505,118 +505,123 @@ var data = {
 				youtube: "https://www.youtube.com/embed/9Yxwjy4pvsM"
 		},
 		LU: {
-				name: "LUXEMBOURG",
+				name: "Luxembourg",
 				continent: "Europe",
 				youtube: "https://www.youtube.com/embed/Bw8g_1VEEL8"
 		},
 		MG: {
-				name: "MADAGASCAR",
+				name: "Madagascar",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/DC-zcvoIXHo"
 		},
 		MW: {
-				name: "MALAWI",
+				name: "Malawi",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/868K4Iq8Z-g"
 		},
 		MY: {
-				name: "MALAYSIA",
+				name: "Malaysia",
 				continent: "Asia",
 				youtube: "https://www.youtube.com/embed/dV-H1EKmCxA"
 		},
 		SZ: {
-				name: "ESWATINI",
+				name: "Eswatini",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/WqHUQMdXDQQ"
 		},
 		MV: {
-				name: "MALDIVES",
+				name: "Maldives",
 				continent: "Asia",
 				youtube: "https://www.youtube.com/embed/KzuWHTJWe-0"
 		},
 		ML: {
-				name: "MALI",
+				name: "Mali",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/5Twr04-ViR4"
 		},
 		MT: {
-				name: "MALTA",
+				name: "Malta",
 				continent: "Europe",
 				youtube: "https://www.youtube.com/embed/Qee_dxMvids"
 		},
 		MH: {
-				name: "MARSHALL ISLANDS",
+				name: "Marshall Islands",
 				continent: "Oceania",
 				youtube: "https://www.youtube.com/embed/wRzXi8DDrX8"
 		},
 		MR: {
-				name: "MAURITANIA",
+				name: "Mauritania",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/QTDxrzELzmU"
 		},
 		MU: {
-				name: "MAURITIUS",
+				name: "Mauritius",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/SrOwkNEHIlk"
 		},
 		MX: {
-				name: "MEXICO",
+				name: "Mexico",
 				continent: "North America",
 				youtube: "https://www.youtube.com/embed/Kxy74EAjAec"
 		},
 		FM: {
-				name: "MICRONESIA (Federated states)",
+				name: "Micronesia (Federated states)",
 				continent: "Oceania",
 				youtube: "https://www.youtube.com/embed/_gSBvcYOuu4"
 		},
 		MD: {
-				name: "MOLDOVA",
+				name: "Moldova",
 				continent: "Europe",
 				youtube: "https://www.youtube.com/embed/cARe_1cRj6E"
 		},
 		MC: {
-				name: "MONACO",
+				name: "Monaco",
 				continent: "Europe",
 				youtube: "https://www.youtube.com/embed/gZ38gYvhiZA"
 		},
 		MN: {
-				name: "MONGOLIA",
+				name: "Mongolia",
 				continent: "Asia",
 				youtube: "https://www.youtube.com/embed/TpdGIPHPBwU"
 		},
 		ME: {
-				name: "MONTENEGRO",
+				name: "Montenegro",
 				continent: "Europe",
 				youtube: "https://www.youtube.com/embed/uBjUOtlnm5Y"
 		},
 		MA: {
-				name: "MOROCCO",
+				name: "Morocco",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/9iqBeJnsq8U"
 		},
 		MZ: {
-				name: "MOZAMBIQUE",
+				name: "Mozambique",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/ZDo7RwB0Zdo"
 		},
 		MM: {
-				name: "MYANMAR",
+				name: "Myanmar",
 				continent: "Asia",
 				youtube: "https://www.youtube.com/embed/xMaaUTWzv8U"
 		},
 		NA: {
-				name: "NAMIBIA",
+				name: "Namibia",
 				continent: "Africa",
 				youtube: "https://www.youtube.com/embed/Jim_NG0PYpc"
 		},
 		NR: {
-				name: "NAURU",
+				name: "Nauru",
 				continent: "Oceania",
 				youtube: "https://www.youtube.com/embed/B5flHlEkgrU"
 		},
 		NP: {
-				name: "NEPAL",
+				name: "Nepal",
 				continent: "Asia",
 				youtube: "https://www.youtube.com/embed/8gTkgfOMkTU"
+		},
+		NL: {
+				name: "Netherlands",
+				continent: "Europe",
+				youtube: "https://www.youtube.com/embed/f4TmQEZzsec"
 		}
 }
